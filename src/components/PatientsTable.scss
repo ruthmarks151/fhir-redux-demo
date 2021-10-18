@@ -1,0 +1,37 @@
+.PatientsTable {
+  flex-grow: 1;
+  height: 100%;
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &__filters {
+    h3 {
+      margin: 0.5rem 0;
+    }
+  }
+
+  &__table-container {
+    width: 100%;
+    flex-shrink: 1;
+    overflow-y: scroll;
+    flex-basis: 0;
+    flex-grow: 1;
+    padding: 0.5rem;
+
+    table {
+      width: 100%;
+      table-layout: auto;
+      overflow-y: scroll;
+    }
+  }
+
+  button {
+    margin-top: auto;
+    background: white;
+    border: 1px solid #111;
+    border-radius: 2000px;
+    padding: 1rem;
+    margin: 0.5rem;
+  }
+}

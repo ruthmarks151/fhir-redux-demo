@@ -1,0 +1,27 @@
+.Patients {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-basis: 0;
+  align-items: stretch;
+  gap: 1rem;
+  width: 100%;
+
+  .left-pane,
+  .PatientsTable {
+    margin: 0.5rem auto;
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+
+  .left-pane {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .left-pane > * {
+    margin: auto 0.5rem;
+  }
+}

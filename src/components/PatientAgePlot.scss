@@ -1,0 +1,12 @@
+.PatientAgePlot {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-bottom: 0.5rem;
+
+  &__chart {
+    width: 100%;
+    flex-grow: 1;
+    margin: auto;
+  }
+}
