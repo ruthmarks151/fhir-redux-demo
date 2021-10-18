@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/fhir-redux-demo/static/css/main.9a419a73.chunk.css",
-    "main.js": "/fhir-redux-demo/static/js/main.32830626.chunk.js",
-    "main.js.map": "/fhir-redux-demo/static/js/main.32830626.chunk.js.map",
+    "main.css": "/fhir-redux-demo/static/css/main.67af6bac.chunk.css",
+    "main.js": "/fhir-redux-demo/static/js/main.224daad3.chunk.js",
+    "main.js.map": "/fhir-redux-demo/static/js/main.224daad3.chunk.js.map",
     "runtime-main.js": "/fhir-redux-demo/static/js/runtime-main.10942730.js",
     "runtime-main.js.map": "/fhir-redux-demo/static/js/runtime-main.10942730.js.map",
-    "static/js/2.6de519f5.chunk.js": "/fhir-redux-demo/static/js/2.6de519f5.chunk.js",
-    "static/js/2.6de519f5.chunk.js.map": "/fhir-redux-demo/static/js/2.6de519f5.chunk.js.map",
+    "static/js/2.21863884.chunk.js": "/fhir-redux-demo/static/js/2.21863884.chunk.js",
+    "static/js/2.21863884.chunk.js.map": "/fhir-redux-demo/static/js/2.21863884.chunk.js.map",
     "index.html": "/fhir-redux-demo/index.html",
-    "static/css/main.9a419a73.chunk.css.map": "/fhir-redux-demo/static/css/main.9a419a73.chunk.css.map",
-    "static/js/2.6de519f5.chunk.js.LICENSE.txt": "/fhir-redux-demo/static/js/2.6de519f5.chunk.js.LICENSE.txt",
-    "static/media/logo.b2e5a01e.svg": "/fhir-redux-demo/static/media/logo.b2e5a01e.svg"
+    "static/css/main.67af6bac.chunk.css.map": "/fhir-redux-demo/static/css/main.67af6bac.chunk.css.map",
+    "static/js/2.21863884.chunk.js.LICENSE.txt": "/fhir-redux-demo/static/js/2.21863884.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10942730.js",
-    "static/js/2.6de519f5.chunk.js",
-    "static/css/main.9a419a73.chunk.css",
-    "static/js/main.32830626.chunk.js"
+    "static/js/2.21863884.chunk.js",
+    "static/css/main.67af6bac.chunk.css",
+    "static/js/main.224daad3.chunk.js"
   ]
 }
